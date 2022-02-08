@@ -10,7 +10,8 @@
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/dansousamelo/)
-
+<br />
+<br />
 
 ### Languages and Tools:
 
