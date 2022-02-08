@@ -28,6 +28,7 @@
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="FaunaDB" width="26px" src="./img/faunadb.png" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="26px" src="./img/photo.png" style="padding-right:10px;" />
 <img align="left" alt="Illustrator" width="26px" src="./img/ai.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
