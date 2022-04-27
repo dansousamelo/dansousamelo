@@ -4,12 +4,19 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play eletric guitar
 
+<p align="center"><img src="https://user-images.githubusercontent.com/48137972/165411246-644acc5b-8801-4450-bdf4-a384d6bac447.svg"></p>
+
 ### Connect with me:
 
-[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="./img/out.png" style="padding-right:10px;" />](daniel_sousa.unb@outlook.com)
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="./img/linkedin.png" style="padding-right:10px;" />](https://www.linkedin.com/in/dansousamelo/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/dansousamelo/" /><img width="26px" height="26px" src="./img/linkedin.png" />
+  <a href="https://www.linkedin.com/in/dansousamelo/" /><img width="26px" height="26px" src="./img/out.png" /> 
+</div>  
+
+
+
 <br />
 <br />
 
@@ -41,5 +48,5 @@
 ---
 # My GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dansousamelo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dansousamelo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"></p>
 
