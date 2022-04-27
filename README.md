@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dansousamelo/" /><img width="26px" height="26px" src="./img/linkedin.png" />
-  <a href="https://www.linkedin.com/in/dansousamelo/" /><img width="26px" height="26px" src="./img/out.png" /> 
+  <a href="daniel_sousa.unb@outlook.com/" /><img width="26px" height="26px" src="./img/out.png" /> 
 </div>  
 
 
