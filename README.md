@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel 👋
 
-- 📚 I'm a UI/UX Designer, Senior Front-end Developer
+- 📚 I'm a Senior Front-end Developer
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play eletric guitar
 
